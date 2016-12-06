@@ -1,5 +1,5 @@
 # EE209FinalPrj
-FinalPrj
+FinalProject
 
 
 Code Expalaination:
