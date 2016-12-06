@@ -6,13 +6,17 @@ Code Expalaination:
 
 XY Plotter:
 
-  1. SpeedOnlyAlgorithm.js is our first algorithm.
+  1. LMArrayandControlOriginal_Cylon.js is Cylon version for storing arrays in replication of robotic arms.
+  
+  2. LMArrayandControl for OWIandOther arms_j5.js is Johnny-Five version for storing arrays in replication of robotic arms.
+  
+  3. SpeedOnlyAlgorithm.js is our first algorithm of XY Plotter.
 
-  2. SpeedPositionALgorithm.js is our second algorithm. 
+  4. SpeedPositionALgorithm.js is our second algorithm. 
 
-  3. XXXXXXXXXXXXXXXXXXXXXX is our third algorithm
+  5. XXXXXXXXXXXXXXXXXXXXXX is our third algorithm
 
-  4. ModifiedBresenhamAlgorithm.js is our final algorithm.
+  6. ModifiedBresenhamAlgorithm.js is our final algorithm.
 
 
 
