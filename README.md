@@ -4,13 +4,15 @@ FinalProject
 
 Code Expalaination:
 
-SpeedOnlyAlgorithm.js is our first algorithm.
+XY Plotter:
 
-SpeedPositionALgorithm.js is our second algorithm. 
+  1. SpeedOnlyAlgorithm.js is our first algorithm.
 
-XXXXXXXXXXXXXXXXXXXXXX is our third algorithm
+  2. SpeedPositionALgorithm.js is our second algorithm. 
 
-ModifiedBresenhamAlgorithm.js is our final algorithm.
+  3. XXXXXXXXXXXXXXXXXXXXXX is our third algorithm
+
+  4. ModifiedBresenhamAlgorithm.js is our final algorithm.
 
 
 
