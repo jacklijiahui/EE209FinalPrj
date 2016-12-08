@@ -5,7 +5,7 @@ FinalProject
 Code Explanation:
 
 OWI Robotic Arm:
-  1. DH_equations, DH_complete_equations, and DH_complete_method are code files for implementing forward and inverse kinematics. 
+  1. DH_equations.js, DH_complete_equations.js, and DH_complete_method.js are code files for implementing forward and inverse kinematics. 
 
 XY Plotter:
 
