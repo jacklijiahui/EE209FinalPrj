@@ -29,4 +29,4 @@ Open Source Website: https://codepen.io/Seasean/full/GNQdBY/
 
 This is our Froject Demo Video:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFbyycwz5k8" frameborder="0" allowfullscreen></iframe>
+https://youtu.be/vFbyycwz5k8
