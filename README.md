@@ -27,6 +27,6 @@ User Interface:
 
 Open Source Website: https://codepen.io/Seasean/full/GNQdBY/
 
-This is our Froject Demo Video:
+Froject Demo Video:
 
-https://youtu.be/vFbyycwz5k8
+YouTube Website: https://youtu.be/vFbyycwz5k8
