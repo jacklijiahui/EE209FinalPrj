@@ -35,6 +35,6 @@ User Interface:
 
 Open Source Website: https://codepen.io/Seasean/full/GNQdBY/
 
-Froject Demo Video:
+Project Demo Video:
 
 YouTube Website: https://youtu.be/vFbyycwz5k8
