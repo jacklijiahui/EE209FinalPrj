@@ -20,7 +20,7 @@ XY Plotter:
 
   4. SpeedPositionALgorithm.js is our second algorithm. 
 
-  5. XXXXXXXXXXXXXXXXXXXXXX is our third algorithm
+  5. OriginalBresenhamAlgorithm.js is our third algorithm and initial attempt to implement the full version of Bresenham's Line Based Algorithm. 
 
   6. ModifiedBresenhamAlgorithm.js is our final algorithm.
 
