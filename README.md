@@ -19,10 +19,12 @@ XY Plotter:
   3. SpeedOnlyAlgorithm.js is our first algorithm of XY Plotter.
 
   4. SpeedPositionALgorithm.js is our second algorithm. 
+  
+  5. BresenhamMathAlgorithm.js is JavaScript code that implements the mathematical process of Bresenham's Line Based Algorithm. It is only to verify its functionality and operation. This code was used to predict and evaluate how it could be implemented with the XY Plotter.
 
-  5. OriginalBresenhamAlgorithm.js is our third algorithm and initial attempt to implement the full version of Bresenham's Line Based Algorithm. 
+  6. OriginalBresenhamAlgorithm.js is our third algorithm and initial attempt to implement the full version of Bresenham's Line Based Algorithm. 
 
-  6. ModifiedBresenhamAlgorithm.js is our final algorithm.
+  7. ModifiedBresenhamAlgorithm.js is our final algorithm.
 
 
 
