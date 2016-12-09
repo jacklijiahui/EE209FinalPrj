@@ -1,6 +1,8 @@
 # EE209FinalPrj
 FinalProject
 
+Final Report:
+Team Thimble EE209AS Fall 2016 Final Project.compressed is our group's final report for this project.
 
 Code Explanation:
 
